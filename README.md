@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante o curso da Alura:
 
 * "JavaScript para Web: Crie páginas dinâmicas"
 
-Com o **Alura Midi**, aprendemos como manipular o **DOM com JavaScript** para associar eventos e sons a elementos HTML. O projeto é ideal para entender a comunicação entre **HTML, CSS e JS**, além de aplicar conceitos básicos de lógica de programação.
+Com o **Alura Midi**, aprendi como manipular o **DOM com JavaScript** para associar eventos e sons a elementos HTML. O projeto é ideal para entender a comunicação entre **HTML, CSS e JS**, além de aplicar conceitos básicos de lógica de programação.
 
 ## 📚 Objetivos do Curso
 
